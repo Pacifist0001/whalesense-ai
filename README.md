@@ -6,7 +6,9 @@ It monitors large on-chain cryptocurrency transactions ("whale movements") and u
 
 The goal is to help users anticipate volatility, understand market sentiment, and make smarter trading decisions.
 
-WhaleSense AI market alert system.png
+## Demo Preview
+
+![WhaleSense AI Dashboard](WhaleSense AI market alert system.png)
 ---
 
 ## Key Features
