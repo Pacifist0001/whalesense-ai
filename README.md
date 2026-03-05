@@ -22,7 +22,7 @@ The goal is to help users anticipate volatility, understand market sentiment, an
 
 Prototype dashboard interface for WhaleSense AI.
 
-![WhaleSense Dashboard](dashboard.png)
+![WhaleSense Dashboard](WhaleSense AI market alert system.png)
 
 ---
 
