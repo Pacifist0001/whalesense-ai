@@ -5,10 +5,6 @@ WhaleSense AI is an OpenClaw assistant concept designed for the Binance ecosyste
 It monitors large on-chain cryptocurrency transactions ("whale movements") and uses AI to interpret their potential market impact for traders.
 
 The goal is to help users anticipate volatility, understand market sentiment, and make smarter trading decisions.
-
-## Demo Preview
-
-![WhaleSense AI Dashboard](WhaleSense AI market alert system.png)
 ---
 
 ## Key Features
