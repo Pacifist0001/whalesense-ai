@@ -1,23 +1,73 @@
 # WhaleSense AI
 
-WhaleSense AI is an OpenClaw assistant concept built for the Binance ecosystem.
+WhaleSense AI is an OpenClaw assistant concept designed for the Binance ecosystem.
 
-It analyzes large on-chain whale transactions and uses AI to interpret the potential market impact for traders.
+It monitors large on-chain cryptocurrency transactions ("whale movements") and uses AI to interpret their potential market impact for traders.
+
+The goal is to help users anticipate volatility, understand market sentiment, and make smarter trading decisions.
+
+---
 
 ## Key Features
 
 • Real-time whale wallet tracking  
 • AI-powered market impact analysis  
-• Volatility alerts  
+• Smart alerts for large transfers  
+• Volatility prediction insights  
 • Whale activity dashboard  
-• Smart trading insights
 
-## Example Alert
+---
 
-"Whale Alert: A wallet transferred 4,200 BTC to exchanges. Historical data suggests potential sell pressure."
+## Demo Preview
+
+Prototype dashboard interface for WhaleSense AI.
+
+![WhaleSense Dashboard](dashboard.png)
+
+---
+
+## Example Whale Alert
+
+Whale Alert:  
+A wallet transferred **4,200 BTC** to an exchange.
+
+AI Analysis:
+- High probability of short-term sell pressure  
+- Increased volatility expected  
+- Traders may consider tightening stop-loss levels
+
+---
+
+## How It Works
+
+1. WhaleSense scans blockchain data for large wallet transfers.  
+2. The AI model analyzes historical patterns of similar transactions.  
+3. Market sentiment and liquidity conditions are evaluated.  
+4. Users receive actionable alerts explaining possible market impact.
+
+---
+
+## Technology Concept
+
+WhaleSense AI could be built using:
+
+• Blockchain data APIs  
+• AI/ML sentiment models  
+• Real-time alert systems  
+• Trading analytics dashboards  
+
+---
 
 ## Vision
 
-WhaleSense AI helps traders make smarter decisions by turning raw blockchain data into clear, actionable insights.
+The vision is to integrate WhaleSense AI directly into the Binance trading interface to provide traders with intelligent insights about whale activity before major market moves occur.
 
-Built for the Binance #BuildWithYou challenge.
+This would help both beginner and professional traders make more informed decisions.
+
+---
+
+## Built For
+
+Binance **#BuildWithYou OpenClaw AI Challenge**
+
+Creating smarter trading tools for the future of crypto.
