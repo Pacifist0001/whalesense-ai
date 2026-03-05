@@ -22,8 +22,6 @@ The goal is to help users anticipate volatility, understand market sentiment, an
 
 Prototype dashboard interface for WhaleSense AI.
 
-![WhaleSense Dashboard](WhaleSense AI market alert system.png)
-
 ---
 
 ## Example Whale Alert
@@ -71,3 +69,13 @@ This would help both beginner and professional traders make more informed decisi
 Binance **#BuildWithYou OpenClaw AI Challenge**
 
 Creating smarter trading tools for the future of crypto.
+## Future Roadmap
+
+Phase 1 – Whale Detection Engine  
+Develop a real-time system that monitors large on-chain transactions for major cryptocurrencies like Bitcoin and Ethereum.
+
+Phase 2 – AI Market Impact Model  
+Train machine learning models to analyze historical whale movements and predict potential price volatility or market pressure.
+
+Phase 3 – Binance Integration  
+Integrate WhaleSense AI into the Binance ecosystem to provide live whale alerts, risk insights, and smarter trading guidance directly inside the trading interface.
